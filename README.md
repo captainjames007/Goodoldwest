@@ -1,2 +1,5 @@
 # Goodoldwest
 Escape from Dry Creek is a Western adventure where you play as an outlaw trying to escape a town surrounded by the sheriff’s men. Choose between fighting, sneaking, or bargaining your way out. Every decision shapes your fate in this thrilling, action-packed story with multiple outcomes.
+Experience the most thrilling Western adventure, playing an outlaw trapped in the town of Dry Creek. The sheriff's men are closing in on you, and you must make crucial decisions to survive. Will you fight your way out, sneak through the shadows, or strike a deal with the bartender for a secret escape route?
+Your choices develop the storyline, and it is full of different outcomes according to your choices. Further in the story, you have to cross dangerous mountains or a desert that never seems to stop-both ways are full of risks and rewards.
+With several ways to play the game and multiple endings, this game is an interactive and dynamic adventure. Every decision counts, so choose wisely, and see if you can ride free or meet your maker in the Wild West!
