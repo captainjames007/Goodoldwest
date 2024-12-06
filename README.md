@@ -4,7 +4,7 @@ Adventure Game: The Outlaw's Escape is a text-based interactive game where playe
 How to Play:
  Download the repository
  Open the project in any Python environment .
- Run the main Python file (e.g., `game.py`).
+ Run the jamesgame Python file 
  Follow the on-screen prompts to make decisions at each chapter and progress through the story.
  At various points in the game, you’ll be asked to choose between different actions. Your choices will influence the outcome of the game.
 
